@@ -9,3 +9,4 @@
 ***
 
 * [Lesbigen](lesbigen.md)
+* [Changelog](changelog.md)
